@@ -47,4 +47,5 @@ main.exe
 - Sau khi chạy, chuỗi "Hello, World!" sẽ được in ra màn hình.
 
 Đó là cách viết và biên dịch chương trình "Hello, World!" trong ngôn ngữ C.
+
 [Phần 3 - Nhập xuất trong C](https://github.com/tripleseven190504/c/blob/main/Phan3-InOut.md)
