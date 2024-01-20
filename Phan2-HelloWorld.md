@@ -39,4 +39,4 @@ main.exe
 
 Sau khi chạy, bạn sẽ nhìn thấy chuỗi "Hello, World!" được in ra màn hình.
 
-Đó là cách bạn có thể viết và biên dịch chương trình "Hello, World!" trong ngôn ngữ C.
+Đó là cách viết và biên dịch chương trình "Hello, World!" trong ngôn ngữ C.
