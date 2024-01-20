@@ -41,3 +41,18 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
     ```
 
     Nếu lệnh trên hiển thị phiên bản của trình biên dịch `GCC` (GNU Compiler Collection), tức là MinGW đã được cài đặt thành công.
+
+### Sử dụng
+
+- Biên dịch mã nguồn C:
+
+    ``` bash
+    gcc source.c -o output
+    ```
+
+    Trong đó:
+
+    `source.c`: Tên của tệp mã nguồn C bạn muốn biên dịch.
+
+    `-o output`: Đặt tên cho tệp thực thi sau khi biên dịch ***(nếu là windows thì thêm đuôi.exe vào cuối)***
+- ***Trong thực tế, để biên dịch một chương trình viết bằng ngôn ngữ C ta cần biên dịch từng tệp thành các đối tượng, sau đó liên kết chúng lại, để tự động hoá thì chúng ta sẽ sử dụng Makefile, mình sẽ hướng dẫn phần này sau***
