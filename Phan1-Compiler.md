@@ -57,4 +57,4 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
     `-o output`: Đặt tên cho tệp thực thi sau khi biên dịch ***(nếu là windows thì thêm đuôi.exe vào cuối)***
 - ***Trong thực tế, để biên dịch một chương trình viết bằng ngôn ngữ C ta cần biên dịch từng tệp thành các đối tượng, sau đó liên kết chúng lại, để tự động hoá thì chúng ta sẽ sử dụng Makefile, mình sẽ hướng dẫn phần này sau***
 
-[Phần 2 - Hello World](https://github.com/tripleseven190504/c/blob/main/Phan2-HelloWorld.md)
+[Phần 2 - Chương trình đầu tiên](https://github.com/tripleseven190504/c/blob/main/Phan2-HelloWorld.md)
