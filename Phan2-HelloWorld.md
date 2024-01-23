@@ -48,4 +48,5 @@ main.exe
 
 Đó là cách viết và biên dịch chương trình "Hello, World!" trong ngôn ngữ C.
 
-[Phần 3 - Nhập xuất trong C](https://github.com/tripleseven190504/c/blob/main/Phan3-InOut.md)
+[<- Phần 1 - Mở đầu](https://github.com/tripleseven190504/c/blob/main/Phan1-Compiler.md) |
+[Phần 3 - Nhập xuất trong C ->](https://github.com/tripleseven190504/c/blob/main/Phan3-InOut.md)
