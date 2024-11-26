@@ -48,5 +48,5 @@ main.exe
 
 Đó là cách viết và biên dịch chương trình "Hello, World!" trong ngôn ngữ C.
 
-[<- Phần 1 - Mở đầu](/Phan1-Compiler) |
-[Phần 3 - Nhập xuất trong C ->](/Phan3-InOut)
+[<- Phần 1 - Mở đầu](/C/Phan1-Compiler) |
+[Phần 3 - Nhập xuất trong C ->](/C/Phan3-InOut)

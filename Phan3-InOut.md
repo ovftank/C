@@ -61,4 +61,4 @@ printf("Số nguyên đã nhập: %d\n", num);
 - Trong ví dụ trên, `%d` trong chuỗi định dạng của `scanf` cho biết muốn đọc một số nguyên.
 - Biến `num` được truyền vào `scanf` bằng cách sử dụng toán tử `&` để truyền địa chỉ của biến.
 
-[<- Phần 2 - Mở đầu](/Phan2-HelloWorld)
+[<- Phần 2 - Mở đầu](/C/Phan2-HelloWorld)
